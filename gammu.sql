@@ -63,7 +63,7 @@ INSERT INTO `contact` (`id`, `nama`, `email`, `hp`, `hadir`) VALUES
 (21, 'Rizki Rinaldi', 'rinaldissg@yahoo.com', '085748485448', 'b'),
 (22, 'Ade Ari', 'ade_ari_w0@yahoo.com', '085645129347', 'b'),
 (23, 'Rezha Arief A.F', 'rhetech@yahoo.co.uk', '08979360970', 'b'),
-(24, 'Arief Rakhman', 'armanketigabelas@gmail.com', '085648813122', 'b'),
+(24, 'Arief Rakhman', 'armanketigabelas@gmail.com', '085648813999', 'b'),
 (25, 'Mokhamad Aruadi', 'mokhamad27@gmail.com', '085648813122', 'b'),
 (26, 'Rizal Romadhoni H', 'must.r124l@gmail.com', '081515572950', 'y');
 
